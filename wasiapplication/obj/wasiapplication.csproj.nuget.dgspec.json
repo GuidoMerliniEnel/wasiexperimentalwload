@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\A443972\\source\\repos\\wasiexperimental\\wasiexperimentalwload\\wasiapplication\\wasiapplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\A443972\\source\\repos\\wasiexperimental\\wasiexperimentalwload\\wasiapplication\\wasiapplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A443972\\source\\repos\\wasiexperimental\\wasiexperimentalwload\\wasiapplication\\wasiapplication.csproj",
+        "projectName": "wasiapplication",
+        "projectPath": "C:\\Users\\A443972\\source\\repos\\wasiexperimental\\wasiexperimentalwload\\wasiapplication\\wasiapplication.csproj",
+        "packagesPath": "C:\\Users\\A443972\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A443972\\source\\repos\\wasiexperimental\\wasiexperimentalwload\\wasiapplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\A443972\\source\\repos\\wasiexperimental\\wasiexperimentalwload\\wasiapplication\\NuGet.Config",
+          "C:\\Users\\A443972\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-experimental/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.DotNet.ILCompiler.LLVM": {
+              "target": "Package",
+              "version": "[8.0.0-*, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0-preview.5.23280.8, )",
+              "autoReferenced": true
+            },
+            "runtime.win-x64.Microsoft.DotNet.ILCompiler.LLVM": {
+              "target": "Package",
+              "version": "[8.0.0-*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.5.23303.2\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "wasi-wasm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+wasmtime run wasiapplication.wasm $*

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wasiapplication", "wasiapplication\wasiapplication.csproj", "{03831EBB-00DE-4B08-A806-8962A6571C55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wasmtimehost", "wasmtimehost\wasmtimehost.csproj", "{F516B116-DD16-414C-A98A-2B7F0ADD8D8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03831EBB-00DE-4B08-A806-8962A6571C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03831EBB-00DE-4B08-A806-8962A6571C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03831EBB-00DE-4B08-A806-8962A6571C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03831EBB-00DE-4B08-A806-8962A6571C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F516B116-DD16-414C-A98A-2B7F0ADD8D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F516B116-DD16-414C-A98A-2B7F0ADD8D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F516B116-DD16-414C-A98A-2B7F0ADD8D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F516B116-DD16-414C-A98A-2B7F0ADD8D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {258DD835-AC64-4D13-BC6F-FFF25BC293CC}
+	EndGlobalSection
+EndGlobal

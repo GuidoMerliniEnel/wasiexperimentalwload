@@ -1,0 +1,10 @@
+obj\Release\net8.0\wasi-wasm\native\wasiapplication.0.bc
+obj\Release\net8.0\wasi-wasm\native\wasiapplication.1.bc
+obj\Release\net8.0\wasi-wasm\native\wasiapplication.2.bc
+obj\Release\net8.0\wasi-wasm\native\wasiapplication.3.bc
+obj\Release\net8.0\wasi-wasm\native\wasiapplication.4.bc
+obj\Release\net8.0\wasi-wasm\native\wasiapplication.5.bc
+obj\Release\net8.0\wasi-wasm\native\wasiapplication.6.bc
+obj\Release\net8.0\wasi-wasm\native\wasiapplication.7.bc
+obj\Release\net8.0\wasi-wasm\native\wasiapplication.bc
+obj\Release\net8.0\wasi-wasm\native\wasiapplication.external.bc

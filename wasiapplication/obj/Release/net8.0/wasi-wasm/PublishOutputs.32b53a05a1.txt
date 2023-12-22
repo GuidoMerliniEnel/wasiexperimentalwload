@@ -1,0 +1,3 @@
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\bin\Release\net8.0\wasi-wasm\publish\wasiapplication.wasm
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\bin\Release\net8.0\wasi-wasm\publish\wasiapplication.pdb
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\bin\Release\net8.0\wasi-wasm\publish\wasiapplication.deps.json

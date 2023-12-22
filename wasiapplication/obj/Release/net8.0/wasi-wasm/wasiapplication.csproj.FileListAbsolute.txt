@@ -1,0 +1,12 @@
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\bin\Release\net8.0\wasi-wasm\wasiapplication.deps.json
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\bin\Release\net8.0\wasi-wasm\wasiapplication.dll
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\bin\Release\net8.0\wasi-wasm\wasiapplication.pdb
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\obj\Release\net8.0\wasi-wasm\wasiapplication.csproj.AssemblyReference.cache
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\obj\Release\net8.0\wasi-wasm\wasiapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\obj\Release\net8.0\wasi-wasm\wasiapplication.AssemblyInfoInputs.cache
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\obj\Release\net8.0\wasi-wasm\wasiapplication.AssemblyInfo.cs
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\obj\Release\net8.0\wasi-wasm\wasiapplication.csproj.CoreCompileInputs.cache
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\obj\Release\net8.0\wasi-wasm\wasiapplication.dll
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\obj\Release\net8.0\wasi-wasm\refint\wasiapplication.dll
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\obj\Release\net8.0\wasi-wasm\wasiapplication.pdb
+C:\Users\A443972\source\repos\wasiexperimental\wasiexperimentalwload\wasiapplication\obj\Release\net8.0\wasi-wasm\ref\wasiapplication.dll

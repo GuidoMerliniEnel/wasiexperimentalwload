@@ -1,0 +1,29 @@
+﻿"C:/Users/A443972/.nuget/packages/runtime.wasi-wasm.microsoft.dotnet.ilcompiler.llvm/8.0.0-preview.7.23503.1/framework/libSystem.Native.a"
+"C:/Users/A443972/.nuget/packages/runtime.wasi-wasm.microsoft.dotnet.ilcompiler.llvm/8.0.0-preview.7.23503.1/framework/libSystem.Globalization.Native.a"
+"C:/Users/A443972/.nuget/packages/runtime.wasi-wasm.microsoft.dotnet.ilcompiler.llvm/8.0.0-preview.7.23503.1/sdk/libbootstrapperdll.a"
+"C:/Users/A443972/.nuget/packages/runtime.wasi-wasm.microsoft.dotnet.ilcompiler.llvm/8.0.0-preview.7.23503.1/sdk/libPortableRuntime.a"
+"C:/Users/A443972/.nuget/packages/runtime.wasi-wasm.microsoft.dotnet.ilcompiler.llvm/8.0.0-preview.7.23503.1/sdk/libEmulatedExceptionHandling.a"
+"obj/Release/net8.0/wasi-wasm/native/wasiapplication.0.o"
+"obj/Release/net8.0/wasi-wasm/native/wasiapplication.1.o"
+"obj/Release/net8.0/wasi-wasm/native/wasiapplication.2.o"
+"obj/Release/net8.0/wasi-wasm/native/wasiapplication.3.o"
+"obj/Release/net8.0/wasi-wasm/native/wasiapplication.4.o"
+"obj/Release/net8.0/wasi-wasm/native/wasiapplication.5.o"
+"obj/Release/net8.0/wasi-wasm/native/wasiapplication.6.o"
+"obj/Release/net8.0/wasi-wasm/native/wasiapplication.7.o"
+"obj/Release/net8.0/wasi-wasm/native/wasiapplication.o"
+"obj/Release/net8.0/wasi-wasm/native/wasiapplication.external.o"
+-o "bin/Release/net8.0/wasi-wasm/native/wasiapplication.wasm"
+-g3
+-target wasm32-unknown-wasi
+--sysroot="C:/tools/wasi-sdk-20.0+m/share/wasi-sysroot"
+-Wl,--export=MyAdd
+-Wl,--export=HelloWorld
+-Wl,--export=AllocateMemory
+-Wl,--export=HelloString
+-Wl,--unresolved-symbols=ignore-all -Wl,--error-limit=0
+-lstdc++ -lwasi-emulated-process-clocks -lwasi-emulated-signal -lwasi-emulated-getpid
+-Wl,--max-memory=2147483648
+-Wl,--global-base=1024
+-Wl,-z,stack-size=1048576
+-mexec-model=reactor
